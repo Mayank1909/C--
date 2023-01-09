@@ -1,0 +1,3 @@
+C:/Users/mayan/Documents/Visual Studio 2019/hello world/C++/CMakeFiles/edit_cache.dir
+C:/Users/mayan/Documents/Visual Studio 2019/hello world/C++/CMakeFiles/hello_world.dir
+C:/Users/mayan/Documents/Visual Studio 2019/hello world/C++/CMakeFiles/rebuild_cache.dir

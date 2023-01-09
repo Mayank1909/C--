@@ -1,0 +1,1 @@
+{"name":"Local: DFS","url":"c:\\Users\\mayan\\Documents\\Visual Studio 2019\\hello world\\C++\\Graph\\DFS.cpp","tests":[{"id":1667313108894,"input":"5 4\n0 2\n0 3\n0 1\n2 4","output":"0 1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\Documents\\Visual Studio 2019\\hello world\\C++\\Graph\\DFS.cpp","group":"local","local":true}
